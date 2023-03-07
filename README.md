@@ -1,2 +1,7 @@
 # SoftUniDemoGitHubProject
-Demo project for SoftUni Foundamentals. I edited this on GitHub directly! 
+Demo project for SoftUni Foundamentals. 
+
+
+I edited this on GitHub directly! 
+
+This repository also contains cats and dogs!
