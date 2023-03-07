@@ -7,5 +7,10 @@ class Dog{
   age;
   breed;
 }
+class Rabbit{
+  name;
+  age;
+  color;
+}
 
 
